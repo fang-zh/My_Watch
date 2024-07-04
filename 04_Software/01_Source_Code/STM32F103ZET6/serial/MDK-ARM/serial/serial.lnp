@@ -3,6 +3,7 @@
 "serial\main.o"
 "serial\gpio.o"
 "serial\freertos.o"
+"serial\dma.o"
 "serial\usart.o"
 "serial\stm32f1xx_it.o"
 "serial\stm32f1xx_hal_msp.o"

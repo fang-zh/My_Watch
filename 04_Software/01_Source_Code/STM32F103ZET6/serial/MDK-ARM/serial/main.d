@@ -37,5 +37,6 @@ serial\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
 serial\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
 serial\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
 serial\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+serial\main.o: ../Core/Inc/dma.h
 serial\main.o: ../Core/Inc/usart.h
 serial\main.o: ../Core/Inc/gpio.h
