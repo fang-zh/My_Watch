@@ -118,7 +118,7 @@ __weak void StartDefaultTask(void *argument)
   /* Infinite loop */
   for(;;)
   {
-		HAL_UART_Transmit_IT(&huart1, (uint8_t *)message, strlen(message));
+		HAL_UART_Transmit_DMA(&huart1, (uint8_t *)message, strlen(message));
     osDelay(1000);
   }
   /* USER CODE END StartDefaultTask */

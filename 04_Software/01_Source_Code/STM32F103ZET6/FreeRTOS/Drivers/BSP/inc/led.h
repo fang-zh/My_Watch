@@ -23,6 +23,7 @@
 #define BLED(flag)        HAL_GPIO_WritePin(LED_BLUE_GPIO_Port, LED_BLUE_Pin, flag)     
 
 void Led_Init(void);		// LED初始化״̬
+void StartLedTask(void *argument);	// LED任务
 
 #endif
 
