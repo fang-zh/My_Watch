@@ -1,0 +1,15 @@
+serial\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+serial\queue.o: E:\Keil\Core\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdlib.h
+serial\queue.o: E:\Keil\Core\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
+serial\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+serial\queue.o: E:\Keil\Core\ARM\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
+serial\queue.o: E:\Keil\Core\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+serial\queue.o: ../Core/Inc/FreeRTOSConfig.h
+serial\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+serial\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+serial\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+serial\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+serial\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+serial\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+serial\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+serial\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
