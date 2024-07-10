@@ -1,0 +1,1 @@
+04_message_queue\startup_stm32f103xe.o: startup_stm32f103xe.s
