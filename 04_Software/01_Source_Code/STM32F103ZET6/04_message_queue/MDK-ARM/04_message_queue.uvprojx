@@ -514,6 +514,11 @@
               <FileType>1</FileType>
               <FilePath>..\Drivers\BSP\src\driver_key.c</FilePath>
             </File>
+            <File>
+              <FileName>driver_led.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Drivers\BSP\src\driver_led.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>

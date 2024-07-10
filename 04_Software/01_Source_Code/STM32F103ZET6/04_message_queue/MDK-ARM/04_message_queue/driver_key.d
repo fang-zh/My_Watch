@@ -40,4 +40,5 @@
 04_message_queue\driver_key.o: ../Core/Inc/main.h
 04_message_queue\driver_key.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os.h
 04_message_queue\driver_key.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.h
+04_message_queue\driver_key.o: ../Drivers/BSP/inc/driver_led.h
 04_message_queue\driver_key.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

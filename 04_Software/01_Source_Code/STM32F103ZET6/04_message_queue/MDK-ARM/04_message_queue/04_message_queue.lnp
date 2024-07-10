@@ -21,6 +21,7 @@
 "04_message_queue\stm32f1xx_hal_tim_ex.o"
 "04_message_queue\system_stm32f1xx.o"
 "04_message_queue\driver_key.o"
+"04_message_queue\driver_led.o"
 "04_message_queue\croutine.o"
 "04_message_queue\event_groups.o"
 "04_message_queue\list.o"
